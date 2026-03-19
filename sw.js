@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Magic English-v1';
+const CACHE_NAME = 'magic-english-v1';
 const ASSETS_TO_CACHE = [
   '/',
   '/index.html',

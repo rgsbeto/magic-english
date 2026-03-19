@@ -1,6 +1,6 @@
 {
-  "name": "Magic English - SAS 1st Grade",
-  "short_name": "Magic English",
+  "name": "Magic-English - SAS 1st Grade",
+  "short_name": "Magic-English",
   "description": "Learn beginning consonant sounds S, M, F, N - Saint Anthony School",
   "start_url": "/index.html",
   "display": "standalone",
@@ -25,7 +25,7 @@
       "sizes": "512x512",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Magic English Home"
+      "label": "Magic-English Home"
     }
   ]
 }
