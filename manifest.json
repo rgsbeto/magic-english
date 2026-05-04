@@ -1,7 +1,7 @@
 {
   "name": "Magic-English - SAS 1st Grade",
   "short_name": "Magic-English",
-  "description": "Learn beginning consonant sounds S, M, F, N - Saint Anthony School",
+  "description": "CVC -at family words and high frequency words - Saint Anthony School",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
@@ -18,14 +18,5 @@
     { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
     { "src": "./icons/icon-384.png", "sizes": "384x384", "type": "image/png", "purpose": "any maskable" },
     { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
-  ],
-  "screenshots": [
-    {
-      "src": "./icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "form_factor": "wide",
-      "label": "Magic-English Home"
-    }
   ]
 }
